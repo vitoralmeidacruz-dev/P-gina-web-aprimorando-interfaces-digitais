@@ -3,32 +3,27 @@
  }
  
  header{
-            background-color:#1E1E1E;
-            color: #F5F5F5;
-            text-align: center;
-            margin: 0 auto;
-            padding: 16px;
+     background-color:#1E1E1E;
+     color: #F5F5F5;
+     text-align: center;
+     margin: 0 auto;
+     padding: 16px;
 }
 
     main{
-            background-color:#1E1E1E;
-            color: #F5F5F5;
-            margin: 0 auto;
-            padding: 16px;
+        background-color:#1E1E1E;
+        color: #F5F5F5;
+        margin: 0 auto;
+        padding: 16px;
 
+ }
+                                      
+    article{
+      display: flex;
         }
-
-        article {
-    display: flex;
-    border: 1px solid #183C63;
-    margin: 16px;
-    gap: 16px;
-    padding: 16px;
-}                                       
-        article{
-            display: flex;
-        }
- img{
+ 
+ 
+    img{
     width: 800px;
     height:800px;
 }
